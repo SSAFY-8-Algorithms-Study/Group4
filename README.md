@@ -25,6 +25,7 @@ SSAFY 대전 5반 스터디 4조의 레포입니다.
  ### 공통문제 현황 (readme수정+ 링크 둘 다 표기할 것)
  * ✍ 알고리즘 문제 목록
 
+
 <table align="center">
   <tr>
     <th align="center">번호</th>
@@ -56,6 +57,19 @@ SSAFY 대전 5반 스터디 4조의 레포입니다.
     <td align="center">8월 1주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/02_8_1week">목록보기</a></td>
   </tr>
+  <tr>
+    <td align="center">03</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/1193"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/16922"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1213"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2178"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/3425"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">8월 2주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/03_8_2week">목록보기</a></td>
+  </tr>
+</table>
 </table>
 <a href="https://docs.google.com/spreadsheets/d/1buxYrAU2_gUujN6GX5gJY60DjnuLz58yEKC10a_dLs8/edit#gid=0">문제 풀이 진행도</a><br>
 
