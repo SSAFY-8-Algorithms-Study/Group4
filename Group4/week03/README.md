@@ -10,7 +10,7 @@
 |:-----------:|:-----:|:----:|:----:|:----:|
 |[1193](https://www.acmicpc.net/problem/1193)|✅|✅|✅|✅|
 |[2178](https://www.acmicpc.net/problem/2178)|✅|✅||✅|
-|[1213](https://www.acmicpc.net/problem/1213)|✅|✅|||
+|[1213](https://www.acmicpc.net/problem/1213)|✅|✅| ✅||
 |[16922](https://www.acmicpc.net/problem/16922)|✅|✅|✅|✅|
 |[3425](https://www.acmicpc.net/problem/3425)|||||
 
