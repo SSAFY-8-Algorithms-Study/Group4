@@ -94,6 +94,8 @@ SSAFY 대전 5반 스터디 4조의 레포입니다.
       <a href="https://www.acmicpc.net/problem/16235"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">8월 4주차</td>
+    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/05_8_4week">목록보기</a></td>
+  </tr>
 </table>
 <a href="https://docs.google.com/spreadsheets/d/1buxYrAU2_gUujN6GX5gJY60DjnuLz58yEKC10a_dLs8/edit#gid=0">문제 풀이 진행도</a><br>
 
